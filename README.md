@@ -1,0 +1,1 @@
+[# graficoCSharp](https://github.com/Inteli-College/2024-T0004-SI09-G03-DASHBOARD/commit/7739b4d9d0a1658505deb2986e3db3ee4a38e5da)https://github.com/Inteli-College/2024-T0004-SI09-G03-DASHBOARD/commit/7739b4d9d0a1658505deb2986e3db3ee4a38e5da
